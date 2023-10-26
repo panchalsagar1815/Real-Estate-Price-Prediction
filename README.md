@@ -1,3 +1,6 @@
 # Real-Estate-Price-Prediction
 
-Our Real Estate Price Prediction project leverages advanced data analytics and machine learning techniques to offer valuable insights into property pricing. This innovative tool utilizes key factors such as house age, proximity to MRT stations, availability of convenience stores, longitude, and latitude coordinates to provide accurate and data-driven predictions for real estate prices.
+Our Real Estate Price Prediction project leverages advanced data analytics and machine learning techniques to offer valuable insights into property pricing. This innovative tool utilizes key factors such as house age, proximity to MRT stations, availability of convenience stores, and longitude, and latitude coordinates to provide accurate and data-driven predictions for real estate prices.
+
+In an ever-evolving real estate market, our project aims to assist buyers, sellers, and investors in making informed decisions. By harnessing the power of data analysis and predictive modelling, we empower users to estimate property values, identify investment opportunities, and optimize their real estate transactions.
+
